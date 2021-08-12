@@ -10,5 +10,5 @@ For practising how to make an order using API.
 By default, you have to sign up an account if Alpaca (https://alpaca.markets/); it has 10000000 virtual money for you to make investment.
 
 ## Reference :
-This code is referenced from https://github.com/hackingthemarkets/alpaca
-The tutorial can be found from https://www.youtube.com/watch?v=GsGeLHTOGAg
+#### This code is referenced from https://github.com/hackingthemarkets/alpaca
+#### The tutorial can be found from https://www.youtube.com/watch?v=GsGeLHTOGAg
